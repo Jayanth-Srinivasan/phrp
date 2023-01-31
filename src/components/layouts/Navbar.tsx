@@ -33,7 +33,7 @@ const Navbar = () => {
 						</li>
 					))}
 				</ul>
-				<button className='py-4 px-8 rounded-[40px] transition-all hover:bg-blue-50 border-2 border-orange-500 font-semibold'>
+				<button className='py-4 px-8 rounded-[40px] transition-all hover:bg-blue-100 border-2 border-orange-500 font-semibold'>
 					Login
 				</button>
 			</div>
