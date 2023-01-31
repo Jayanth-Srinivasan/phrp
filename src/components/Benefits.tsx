@@ -11,13 +11,13 @@ const contents = [
 		color: '#CFF0F9',
 	},
 	{
-		title: 'Friendly staff and state of the art facilities',
+		title: 'Boost Your Immune System',
 		text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,',
 		Img: Img4,
 		color: '#FFE8D3',
 	},
 	{
-		title: 'Friendly staff and state of the art facilities',
+		title: 'It prevents diseases', //Quick! Quick! Quick! Quick!
 		text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,',
 		Img: Img5,
 		color: '#F6D1CC',
